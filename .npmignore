@@ -1,0 +1,6 @@
+.gitignore
+docs
+index.ts
+rollup.config.js
+tsconfig.json
+typedoc.json

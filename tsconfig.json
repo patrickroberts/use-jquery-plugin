@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": false,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["dom"],
+    "module": "umd",
+    "moduleResolution": "node",
+    "rootDir": ".",
+    "strict": true,
+    "target": "es5"
+  }
+}
